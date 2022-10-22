@@ -8,9 +8,9 @@
 
 ## Overview
 ## Members
-Brian Murphy- [bmurdata](https://github.com/bmurdata)
-Albi Kozeli- [albikozeli](https://github.com/albikozeli)
-Rahul Dhanapal - [rahul-0008](https://github.com/rahul-0008)
+Brian Murphy- [bmurdata](https://github.com/bmurdata)  
+Albi Kozeli- [albikozeli](https://github.com/albikozeli)  
+Rahul Dhanapal - [rahul-0008](https://github.com/rahul-0008)  
 
 ### Description
 
