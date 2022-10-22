@@ -1,4 +1,5 @@
 # Brainstorming- Group 14
+From- https://hackmd.io/9gKqi7M5SWuiueWD4-BaVQ?both
 ## Members
 Brian Murphy- [bmurdata](https://github.com/bmurdata)    
 Albi Kozeli- [albikozeli](https://github.com/albikozeli)
