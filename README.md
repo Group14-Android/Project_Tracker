@@ -8,9 +8,9 @@
 
 ## Overview
 ## Members
-Brian Murphy- [bmurdata](https://github.com/bmurdata)  
-Albi Kozeli- [albikozeli](https://github.com/albikozeli)  
-Rahul Dhanapal - [rahul-0008](https://github.com/rahul-0008)  
+Brian Murphy- [bmurdata](https://github.com/bmurdata)
+Albi Kozeli- [albikozeli](https://github.com/albikozeli)
+Rahul Dhanapal - [rahul-0008](https://github.com/rahul-0008)
 
 ### Description
 
@@ -52,8 +52,8 @@ Rahul Dhanapal - [rahul-0008](https://github.com/rahul-0008)
   - Show details on project
   - Have link to project logs, resources, and images
   - Link to create images, resources, and notes for a project
-- Image/ Note Log/Resource Stream
-  - Show list of images, notes, or resources
+- Note Log/Resource Stream
+  - Show list of notes, or resources
   - Click to go to each item
 - Image/ Note Log/Resource Detail
   - Show Details associated with them
@@ -76,12 +76,11 @@ Rahul Dhanapal - [rahul-0008](https://github.com/rahul-0008)
   - => Project details
 - Project details
   - => Note log
-  - => Image library
   - => Resource library
+  - => Create Note
+  - => Create resource
 - Note log
-    - => Create note
-- Image library
-    - => Create image
+    - => Create note, add image etc
 - Resource library
     - => Create resource (links to StackOverFlow, etc.)
 ## Wireframes
@@ -90,5 +89,11 @@ Rahul Dhanapal - [rahul-0008](https://github.com/rahul-0008)
 <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
+Used Figma for both Wireframe and interactive mockup.
 
+https://www.figma.com/file/wtoaPKGlrTgM4BkCsiD3sV/Project-Tracker--Full-Features?node-id=0%3A1
 ### [BONUS] Interactive Prototype
+
+<img src="https://github.com/Group14-Android/Project_Tracker/blob/main/milestone1-wireframe.gif" width=35%>
+
+https://www.figma.com/proto/wtoaPKGlrTgM4BkCsiD3sV/Project-Tracker--Full-Features?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2
