@@ -86,7 +86,7 @@ Rahul Dhanapal - [rahul-0008](https://github.com/rahul-0008)
 ## Wireframes
 
 [Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="YOUR_WIREFRAME_IMAGE_URL" alt ="Hand Drawn WireFrame" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 Used Figma for both Wireframe and interactive mockup.
