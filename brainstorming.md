@@ -43,12 +43,13 @@ Rahul Dhanapal - [rahul-0008](https://github.com/rahul-0008)
     - **Habit:** Users can use this at work, school, or for personal project needs.
     - **Scope:** Users should be able to title projects, provide description, and input tasks. This will link to a list of notes, a list of resources, and photos. Users should be able to add projects, tag them, add notes, add resources, and photos. 
 2. **Ideal Roommate**
-    - **Category:**
-    - **Mobile:**
-    - **Story:**
-    - **Market:**
-    - **Habit:**
-    - **Scope:**
+    - **Description:** Allows to effectively communicate with their roommates on many different issues such as common expenses, chores and quiet time notification. In addition it provides records to solve any disagreements
+    - **Category:** Communication
+    - **Mobile:** Users can upload expenses, chores and quiet time segment on the app, while immediately receiving notifications about their roommates uploads.
+    - **Story:** Allows user to communicate in a friendly way about their everyday tasks. Roommates can use the expenses tab to post shared products payed by one person. They can also use the quiet mode to send their roommates notification about a time when they need quiet time (like taking an online exam). A TODO chores tab allows user to effectively communicate about house chores.
+    - **Market:** This app could be used by all people co-leasing a property, however the biggest market would be students as students primarily have roommates while in college.
+    - **Habit:** Users can use this in their house if they have roommates.
+    - **Scope:** Users should be albe to post expenses for common pruduct/ utilities. They also use the app to communicate about household chores they have to do, as well as use the quiet mode to notify their roommates of the times they need some quiet time(like online exams).
 3. **Idea 3**
     - **Category:**
     - **Mobile:**
