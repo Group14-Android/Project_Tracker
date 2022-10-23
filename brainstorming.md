@@ -49,14 +49,15 @@ Rahul Dhanapal - [rahul-0008](https://github.com/rahul-0008)
     - **Story:** Allows user to communicate in a friendly way about their everyday tasks. Roommates can use the expenses tab to post shared products payed by one person. They can also use the quiet mode to send their roommates notification about a time when they need quiet time (like taking an online exam). A TODO chores tab allows user to effectively communicate about house chores.
     - **Market:** This app could be used by all people co-leasing a property, however the biggest market would be students as students primarily have roommates while in college.
     - **Habit:** Users can use this in their house if they have roommates.
-    - **Scope:** Users should be albe to post expenses for common pruduct/ utilities. They also use the app to communicate about household chores they have to do, as well as use the quiet mode to notify their roommates of the times they need some quiet time(like online exams).
-3. **Idea 3**
-    - **Category:**
-    - **Mobile:**
-    - **Story:**
-    - **Market:**
-    - **Habit:**
-    - **Scope:**
+    - **Scope:** Users should be able to post expenses for common pruduct/ utilities. They also use the app to communicate about household chores they have to do, as well as use the quiet mode to notify their roommates of the times they need some quiet time(like online exams).
+3. **Job/Internship Tracker**
+    - **Description:** User can use this app to keep track of their progress in their job/internship hunt. Users can enter new applications, upcoming assessments/interviews and implement notifications so that deadlines are not missed. The app can also create graphs of thier current progress.
+    - **Category:** Productivity
+    - **Mobile:** Users can store their applications and their progress. They can receive notifications so that no deadline is missed.
+    - **Story:** Allows user to effectively store their job/internships applications with all relevant data such as application link, company careers websits, date submiited and any other relevant notes. The user then can update the status and add assessment/interview deadlines that appear on a different tab based on their deadline.
+    - **Market:** This app could be used by everyone looking for new opportunities, however students seeking internships or new grad roles will be the primary market.
+    - **Habit:** Users can use tha app to track their job/internship applications.
+    - **Scope:** Users can use this app to effectively organize their job/internshipd hunt. Details about the company and application can be stored so that the user can prepare better for the interview by using the stored data. Notifications about assessments/interviews will help the user stay on top of the application process.Finally the app has a progress tab which graphically represents the user's progress.
 
 ## Final Idea
 1. Project Tracker
