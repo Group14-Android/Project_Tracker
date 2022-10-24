@@ -94,6 +94,6 @@ Used Figma for both Wireframe and interactive mockup.
 https://www.figma.com/file/wtoaPKGlrTgM4BkCsiD3sV/Project-Tracker--Full-Features?node-id=0%3A1
 ### [BONUS] Interactive Prototype
 
-<img src="https://github.com/Group14-Android/Project_Tracker/blob/main/milestone1-wireframe.gif" width=35%>
+<img src="https://github.com/Group14-Android/Project_Tracker/blob/main/milestone1-wireframe.gif" width=50%>
 
 https://www.figma.com/proto/wtoaPKGlrTgM4BkCsiD3sV/Project-Tracker--Full-Features?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2
