@@ -85,7 +85,7 @@ Rahul Dhanapal - [rahul-0008](https://github.com/rahul-0008)
     - => Create resource (links to StackOverFlow, etc.)
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section]
+Hand drawn
 <img src="https://github.com/Group14-Android/Project_Tracker/blob/main/16666425758348365220237740552623.jpg" alt ="Hand Drawn WireFrame" width=35%>
 
 ### [BONUS] Digital Wireframes & Mockups
