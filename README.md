@@ -99,8 +99,8 @@ https://www.figma.com/file/wtoaPKGlrTgM4BkCsiD3sV/Project-Tracker--Full-Features
 https://www.figma.com/proto/wtoaPKGlrTgM4BkCsiD3sV/Project-Tracker--Full-Features?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2
 
 ### 4. User Stories
-- [ ] Create local DB
+- [x] Create local DB
 - [ ]  View Projects
-- [ ]  Add Project
+- [ ]  Add Project - inprogress
 - [ ]  Add Notes to project
 - [ ]  Add Resources to project
