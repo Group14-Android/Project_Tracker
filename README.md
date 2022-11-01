@@ -105,5 +105,5 @@ User stories
 - [ ]  Add Project - inprogress
 - [ ]  Add Notes to project
 - [ ]  Add Resources to project
-Progress Gif
-<img src="https://github.com/Group14-Android/Project_Tracker/blob/main/16666425758348365220237740552623.jpg" alt "progress" width=50%>
+Progress Gif  
+<img src="https://github.com/Group14-Android/Project_Tracker/blob/brian/sprint1-progress.gif" alt= "progress" width=50%>
