@@ -6,6 +6,7 @@
 1. [Product Spec](#Product-Spec)
 1. [Wireframes](#Wireframes)
 1. [Sprint 1](#Wireframes)
+1. [Sprint 2](#Sprint_2)
 ## Overview
 ## Members
 Brian Murphy- [bmurdata](https://github.com/bmurdata)
@@ -108,7 +109,7 @@ User stories
 Progress Gif  
 <img src="https://github.com/Group14-Android/Project_Tracker/blob/brian/sprint1-progress.gif" alt= "progress" width=50%>
 
-### 4. Sprint 1
+### 4. Sprint_2
 User stories
 - [x] Create local DB
 - [x]  View Projects
