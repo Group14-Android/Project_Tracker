@@ -6,7 +6,7 @@
 1. [Product Spec](#Product-Spec)
 1. [Wireframes](#Wireframes)
 1. [Sprint 1](#Wireframes)
-1. [Sprint 2](#Sprint_2)
+1. [Sprint_2](#Sprint_2)
 ## Overview
 ## Members
 Brian Murphy- [bmurdata](https://github.com/bmurdata)
