@@ -107,3 +107,14 @@ User stories
 - [ ]  Add Resources to project
 Progress Gif  
 <img src="https://github.com/Group14-Android/Project_Tracker/blob/brian/sprint1-progress.gif" alt= "progress" width=50%>
+
+### 4. Sprint 1
+User stories
+- [x] Create local DB
+- [x]  View Projects
+- [x]  Add Project
+- [ ]  Add Notes to project
+- [x]  Notes Layout files
+- [ ]  Add Resources to project
+Progress Gif  
+<img src="https://github.com/Group14-Android/Project_Tracker/blob/brian/sprint2-progress.gif" alt= "progress" width=50%>
